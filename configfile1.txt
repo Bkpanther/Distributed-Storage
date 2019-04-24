@@ -1,0 +1,4 @@
+primary1 172.0.0.1
+primary2 172.0.0.1
+secondary1  172.0.0.1
+secondary2 172.0.0.1
